@@ -1,3 +1,4 @@
+//PROYECTO FINALIZADO
 //Variables
 const listaTweets = document.getElementById('lista-tweets');
 
